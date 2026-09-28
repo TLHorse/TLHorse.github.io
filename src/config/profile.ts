@@ -57,7 +57,7 @@ export const profileConfig: ProfileConfig = {
   avatar: defaultAvatar,
   name: 'Alexander Ma',
   title: 'CUPL法学在读',
-  bio: '是希尔伯特和香农，是福柯、桑塔格、马克思·韦伯或赫尔曼·黑塞，还是李斯特与肖邦，但也是最终谁也没成为的失意者。',
+  bio: '我崇拜着如肖潇、香农、吴恩达、姚顺雨的一表英才，浸润在是海德格尔、福柯、桑塔格、马克思·韦伯、阿多诺或黑塞的思想中，还深切热爱李斯特和肖邦，但也是终究谁也没成为的失意之人。',
   location: '北京/石家庄',
   email: 'matianlaialex@sina.com',
   githubProfileUrl: 'https://github.com/TLHorse',
