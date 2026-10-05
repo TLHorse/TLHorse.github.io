@@ -1,5 +1,5 @@
 ---
-title: "CleanMyMac X破解初尝试"
+title: "CleanMyMac X 暴破（一）"
 date: "2020-03-15T09:16:00+08:00"
 description: "缘起 应该是每个Mac用户耳熟能详的电脑清洁软件，以下简称。我几天前用的是版本，是在xx破解网站上搜索的TNT版本，结果今天一打开CMM发现，已经有了4."
 categories:

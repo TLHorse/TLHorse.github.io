@@ -1,11 +1,9 @@
 ---
-title: "Hopper一拳搞定Interface Inspector"
-date: "2020-03-27T16:40:17+08:00"
-description: "前言 最近本打算搞定 破解版，可谁知开发者用了语言编写，导致我这个小白破解总是不得逞。忽然间听说了一个叫做的软件，感觉还挺厉害的。"
-categories:
-  - "计算机"
-tags:
-  - "反编译"
+title: Interface Inspector逆向工程研究
+categories: ["反编译"]
+tags: ["反编译"]
+date: 2020-03-27
+description: "前言 最近本打算搞定 Downie 4破解版，可谁知开发者用了Swift语言编写，导致我这个小白破解总是不得逞。忽然间听说了一个叫做Interface Inspector的软件，感觉还挺厉害的。…"
 ---
 
 # 前言
